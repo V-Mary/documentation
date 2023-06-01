@@ -1,0 +1,7 @@
+org\example\DataProcessor.class
+org\example\Main.class
+org\example\NYCOpenDataApiClient.class
+org\example\ConsoleOutputStrategy.class
+org\example\KafkaOutputStrategy.class
+org\example\DataOutputStrategy.class
+org\example\RedisOutputStrategy.class
